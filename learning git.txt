@@ -92,6 +92,6 @@ you can merge the new branch to the main branch now.
     command - git checkout main // first you have to move to the desired branch to merge. for this occasion I want to merge to the main branch
     command - git merge <new branch name> // now you have merged the detached work
 
-
+sample
 
 
