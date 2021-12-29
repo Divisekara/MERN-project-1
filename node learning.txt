@@ -8,4 +8,16 @@ sometimes after installing you need to restart the machine then only you can use
 then you can again check the version by 
     command - node --version 
 
-    
+commands - npm init - intialize the node package
+then you are asked to give details about the project.
+
+command - npm install express mongoose dotenv cors 
+the packages you want to install can be given space seperated.
+if you want you can give them one by one or few.
+
+head over to the "https://npmjs.com/package/" and search the above packages and read the documentation as much as you can in order to improve the knowledge.
+
+you can also create the folder called models and route in order to store the routes and models.
+
+Now we need to create the file server.js
+

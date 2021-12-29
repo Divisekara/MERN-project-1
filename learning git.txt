@@ -56,3 +56,15 @@ Then only you can start working in main branch
 In order to see the current branch and other branches on our local and remote repo 
     command - git branch -a
 
+
+I accidentally fucked up  something using the following mistaken command 
+    command - git add /
+    dont use it unless you want to get fucked too.
+
+In order to go to previous commits you can use following command
+    command - git log // see the commit history
+    command - git checkout -f <id of the commit you want to revert> // reverting the whole folder into specified commit
+
+
+
+
