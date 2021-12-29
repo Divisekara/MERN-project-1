@@ -51,3 +51,8 @@ As I learned even we can see only main branch in github.com we are on the branch
 repo in order to start pushing.
     commmand - git checkout main // you can switch the branch from any to main
 
+Then only you can start working in main branch
+
+In order to see the current branch and other branches on our local and remote repo 
+    command - git branch -a
+
