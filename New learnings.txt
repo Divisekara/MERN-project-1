@@ -1,0 +1,35 @@
+CRUD operations - Create, Read, Update, Delete
+for databases as well as for other libraries there are crud operations
+
+ Student learning management system
+
+ M - Mongo DB
+ E - Expres Js
+ R - React JS
+ N - Node Js
+
+for more information on MondoDB we can read following article 
+https://www.mongodb.com/mern-stack
+
+ Mongo DB - NO SQL databases, We can either intall mongoDB locally to our computer or we can use it on a server- MondoDB cloud.Lets use mongoDB cloud
+ Express.js framerwork - This is a nodejs framework written in javascript.
+ React.js - frontend freamework - also known as clientside framework - the whole frontend is designed using this framework 
+React is the most emergin and trending framework
+Node.js - Backend is done using this 
+
+mainly this MERN stack contains three tiers 
+WEB, Server, database
+
+Web site and a web app are two different things - 
+website is a static content 
+web app contains the data where data is changed always
+
+Alwasy first things first. 
+Step no.1 - Create an account on mongoDB and start working on a database- since even if we start working on backend if we dont have our database ready we cant 
+continue the backend work.
+
+
+
+
+
+
