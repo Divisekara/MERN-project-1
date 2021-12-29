@@ -65,6 +65,33 @@ In order to go to previous commits you can use following command
     command - git log // see the commit history
     command - git checkout -f <id of the commit you want to revert> // reverting the whole folder into specified commit
 
+Now what happened is I reverted a commit and I am on no branch and show
+"Head detached from <reverted commit id>"
+
+So you cant push your work to main or any other branches. follow the below steps to successfully push works into the desired branch again.
+
+step one. 
+commit the work under detached from head
+    command - git add .
+    command - git commit -m "sample detaching"
+
+step two 
+create a new branch with the commit done using the detached work.
+    command - git branch <branch name> <commit id of the detached work> // you can now start a new branch with the done work
+
+step three
+push the work and new branch to the github.com. make sure you are in the newly created branch using commands
+    command - git checkout <new branch name> // making sure you are in the new branch
+    command - git add .
+    command - git commit -m "new branch" 
+    command - git push -u origin <new branch name> // if not working use forced push by -f flag instead of -u flag
+now you are in the new branch
+
+step Four 
+you can merge the new branch to the main branch now.
+    command - git checkout main // first you have to move to the desired branch to merge. for this occasion I want to merge to the main branch
+    command - git merge <new branch name> // now you have merged the detached work
+
 
 
 
