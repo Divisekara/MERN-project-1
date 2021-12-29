@@ -1,0 +1,11 @@
+in order to check whether node is installed or not 
+we can use the following command 
+    command - node --version // in my case i have installed v14.16.1
+
+if you dont have node installed on your local computer then you can install it by going to nodejs website and install the stable version and not the latest version. (LTS)
+
+sometimes after installing you need to restart the machine then only you can use node.
+then you can again check the version by 
+    command - node --version 
+
+    
