@@ -1,0 +1,24 @@
+if you have money to buy storage then thats good if not use the free quota.
+
+after succeccfully sign up the account in mongodb.com 
+
+When it comes to SQL databases we also call them relational databases for a reason.
+We store data in tables on SQL databases but in MONGO db databases we does not store data on tables.
+
+What is the main difference between SQL and No Sql databases?
+    While SQL uses structured query language for defining data, NoSQL uses the collection of documents 
+    which is also known as UnQL (Unstructured Query Language). 
+    NoSQL uses hierarchical data storage, and there is no hierarchical data storage for SQL.
+
+Mongo DB has no tables and entirely document based database. 
+
+NoSQL databases are very easy to use over SQL databases.
+
+Document baseed database - Database contains many collections where 
+
+First you need to create a cluster Username and password for my cluster was saved in a screenshot go and find it.  
+
+SQL is used in JAVA, PHP where backend and frontend has no clear seperations.
+but here where we use MERN stack the clear seperation can be seen over frontend and backend. therefore the readability of MERN stack scripts are very high. Only 
+backend and frontend were connected between wher data are read and written nowhere else. 
+
