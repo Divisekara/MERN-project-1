@@ -1,0 +1,2 @@
+Theres an evioronment file called .env where I store mongodb url which contains my cloud mongodb database cluster credentials
+so I need to avoid that file being public in gitHub. So I ignored that file 
