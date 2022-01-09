@@ -102,5 +102,10 @@ you can do this using few methods.
 
 or there are other methods also.
 
+In order to exit from the git commit msg terminal
+1. type your msg
+2. pres ESC
+3. type :wq // in order to save and exit
+then you are good to go.
 
 
