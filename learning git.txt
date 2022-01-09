@@ -94,6 +94,13 @@ you can merge the new branch to the main branch now.
 
 Hell yeah keep learning and coding man.
 
+when you change the remote repository name then you cant push from local repo further more using previously added orign url.
+Now you have to remove the old origin and add neew origin 
+you can do this using few methods.
+1. git remote remove origin 
+2. git remote add origin <url to the remote repo>
+
+or there are other methods also.
 
 
 
